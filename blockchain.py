@@ -21,10 +21,11 @@ class Blockchain:
 
 
 def main():
+    print('hi') #test stub
 
 
-# whatever you write here will be executed if this file is the main method
-# otherwise it will not be
+    # whatever you write here will be executed if this file is the main method
+    # otherwise it will not be
 
 
 if __name__ == '__main__':
@@ -32,4 +33,4 @@ if __name__ == '__main__':
 # only if this file is a main module.
 # now main module will be found out by the file that is
 # currently being executes
-main()
+    main()
