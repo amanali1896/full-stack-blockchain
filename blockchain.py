@@ -23,7 +23,8 @@ def main():
     #otherwise it will not be
 
 
-def if __name__ == '__main__': #this method will be executed
+def if __name__ == '__main__':
+     # this method will be executed
     #only if this file is a main module.
     #now main module will be found out by the file that is 
     #currently being executes
